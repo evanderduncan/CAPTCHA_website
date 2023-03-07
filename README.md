@@ -19,3 +19,11 @@ CAPTCHA stands for Completely Automated Process Turing Test to Tell Computers an
 The speculative CAPTCHA I want to showcase in the website implements synthetic media to tell computers and humans apart and represents a procession of human codification. Previous versions of CAPTCHA have been used to train machine models (Google's reCAPTCHA of identifying images of street objects (traffic lights, other cars, pedestrain crossings, ect.) was used to train google map algorithms and self driving cars) and as synthetic media becomes increasingly mainstream the requirement for more subtle and nueanced capturing and reflection of humans will occur.
 
    <---/project concept--->
+
+   <---project comments--->
+   
+- The html, css is bare, barebones. 
+
+- Prioritising getting js to work and then formatting it with css afterwards. Currently can't figure out how to alter js elements with css
+
+   <---project comments--->
