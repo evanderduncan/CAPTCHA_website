@@ -1,0 +1,45 @@
+.ticket-1{
+    position:relative;
+    top: 300px;
+    left: 30px;
+    cursor: move;
+    width:100px;
+    
+}
+
+.hand{
+    transform: rotate(-90deg);
+    width:20%;
+    
+}
+
+.drag {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+  }
+  
+.drag-header {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+  }
+
+.first{
+    
+}
+
+
+  p{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+  }
+
+  p:hover {
+    text-shadow: 6px -8px 0px #aaff00;
+  }
