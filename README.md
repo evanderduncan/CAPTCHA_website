@@ -24,6 +24,6 @@ The speculative CAPTCHA I want to showcase in the website implements synthetic m
    
 - The html, css is bare, barebones. 
 
-- Prioritising getting js to work and then formatting it with css afterwards. Currently can't figure out how to alter js elements with css
+- Prioritising getting js to work and then formatting it with css afterwards. Currently can't figure out how to alter js elements with css.
 
-   <---project comments--->
+   <---/project comments--->
